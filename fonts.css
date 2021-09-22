@@ -1,0 +1,201 @@
+@font-face {
+  font-family: Mark;
+  font-weight: 100;
+  src: url('fonts/mark/mark-thin.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Mark;
+  font-weight: 200;
+  src: url('fonts/mark/mark-extralight.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Mark;
+  font-weight: 300;
+  src: url('fonts/mark/mark-light.ttf');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: Mark;
+  font-weight: 400;
+  src: url('fonts/mark/mark-regular.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Mark;
+  font-weight: 500;
+  src: url('fonts/mark/mark-book.ttf');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: Mark;
+  font-weight: 600;
+  src: url('fonts/mark/mark-medium.ttf');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: Mark;
+  font-weight: 700;
+  src: url('fonts/mark/mark-bold.ttf');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: Mark;
+  font-weight: 800;
+  src: url('fonts/mark/mark-heavy.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Mark;
+  font-weight: 900;
+  src: url('fonts/mark/mark-black.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: '42i-icon';
+  src:
+  url('fonts/icons/42i-icon.ttf?khwj1u') format('truetype'),
+  url('fonts/icons/42i-icon.woff?khwj1u') format('woff'),
+  url('fonts/icons/42i-icon.svg?khwj1u#42i-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '42i-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logo:before {
+  content: "\e900";
+}
+.icon-menu:before {
+  content: "\e901";
+}
+.icon-clear:before {
+  content: "\e902";
+}
+.icon-add:before {
+  content: "\e903";
+}
+.icon-remove:before {
+  content: "\e904";
+}
+.icon-asterisk:before {
+  content: "\e923";
+}
+.icon-arrow-back:before {
+  content: "\e905";
+}
+.icon-arrow-forward:before {
+  content: "\e906";
+}
+.icon-arrow-upward:before {
+  content: "\e907";
+}
+.icon-arrow-downward:before {
+  content: "\e908";
+}
+.icon-chevron-left:before {
+  content: "\e909";
+}
+.icon-chevron-right:before {
+  content: "\e90a";
+}
+.icon-chevron-less:before {
+  content: "\e90b";
+}
+.icon-chevron-more:before {
+  content: "\e90c";
+}
+.icon-idea:before {
+  content: "\e90d";
+}
+.icon-develop:before {
+  content: "\e90e";
+}
+.icon-spaceship:before {
+  content: "\e90f";
+}
+.icon-devices:before {
+  content: "\e910";
+}
+.icon-astronaut-head:before {
+  content: "\e911";
+}
+.icon-code:before {
+  content: "\e912";
+}
+.icon-balance:before {
+  content: "\e913";
+}
+.icon-focus:before {
+  content: "\e914";
+}
+.icon-mobile:before {
+  content: "\e915";
+}
+.icon-mail:before {
+  content: "\e916";
+}
+.icon-location:before {
+  content: "\e917";
+}
+.icon-facebook:before {
+  content: "\e918";
+}
+.icon-twitter:before {
+  content: "\e919";
+}
+.icon-instagram:before {
+  content: "\e91a";
+}
+.icon-youtube:before {
+  content: "\e91b";
+}
+.icon-whatsapp:before {
+  content: "\e91c";
+}
+.icon-linkedin:before {
+  content: "\e91d";
+}
+.icon-zoom:before {
+  content: "\e91e";
+}
+.icon-vimeo:before {
+  content: "\e91f";
+}
+.icon-apple:before {
+  content: "\e920";
+}
+.icon-android:before {
+  content: "\e921";
+}
+.icon-telegram:before {
+  content: "\e922";
+}
