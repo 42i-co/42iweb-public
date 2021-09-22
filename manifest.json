@@ -1,0 +1,20 @@
+{
+  "short_name": "42i",
+  "name": "42i",
+  "icons": [
+    {
+      "src": "/favicon/android-chrome-192x192.png",
+      "sizes": "192x192 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon/android-chrome-512*512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#fc6865",
+  "background_color": "#fc6865",
+  "display": "standalone"
+}
